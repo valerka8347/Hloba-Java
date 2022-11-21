@@ -15,13 +15,13 @@ public class Main {
 
 
         //Задание №2
-       /* Scanner sс = new Scanner(System.in);
+        s.nextLine();
         System.out.println("Введите имя: ");
-        if(Objects.equals(sс.nextLine(), "Вячеслав")){
+        if(Objects.equals(s.nextLine(), "Вячеслав")){
             System.out.println("Привет, Вячеслав");
         }else{
             System.out.println("Нет такого имени");
-        }*/
+        }
 
 
         //Задание №3
